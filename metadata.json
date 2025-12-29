@@ -1,0 +1,7 @@
+{
+  "name": "Pureingo Delivery Partner",
+  "description": "Professional delivery partner app for Pureingo fruit delivery service, featuring order management, live tracking, and earnings dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
